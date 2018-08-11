@@ -1,5 +1,8 @@
 ### This repo contain changelog of script for better maintaining
 
+#### v6.1 (11 Aug 2018)
+- Fix bugs in Caddy server start up and system service configuration
+
 #### v6.0 (25 Oct 2017)
 - Added custom configuration support
 - Improved package detection using hash
